@@ -10,6 +10,7 @@ export default function Home() {
     <main className='container'>
     <Head>
       <title>search coffee</title>
+      <link rel='icon' href='/favicon.ico'/>
 
     </Head>
       <Banner buttonText={'view stores nearby'} handleOnClick={handleOnBannerClick} />
